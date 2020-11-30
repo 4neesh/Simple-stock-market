@@ -1,0 +1,4 @@
+test/application/entity/TradeTest.class
+test/application/service/TradeBookImplRecorderImplTest.class
+test/application/entity/StockTest.class
+test/application/service/TradeBookGeometricMeanTest.class
